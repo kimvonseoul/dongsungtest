@@ -7,5 +7,5 @@
     "start": "node app.js"
   },
   "author": "kim",
-  "license": "ISC
+  "license": "ISC"
 }
