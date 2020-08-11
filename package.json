@@ -1,4 +1,5 @@
 {
+  "start": "node main.js" 
   "name": "dongsungtest",
   "version": "1.0.0",
   "description": "",
@@ -7,6 +8,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "kim",
-  "license": "ISC"
-  "start": "node main.js" 
+  "license": "ISC
 }
