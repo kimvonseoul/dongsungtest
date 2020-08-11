@@ -8,5 +8,5 @@
   },
   "author": "kim",
   "license": "ISC"
-  "start": "node app.js" 
+  "start": "node main.js" 
 }
