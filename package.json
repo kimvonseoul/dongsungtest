@@ -4,7 +4,7 @@
   "description": "test",
   "main": "main.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node main.js"
   },
   "author": "kim",
   "license": "ISC"
